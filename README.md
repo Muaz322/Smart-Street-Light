@@ -23,9 +23,13 @@ Components Required:
 •	Arduino UNO
 
 Wiring Schematics:
+
 IR sensor	----		Arduino UNO
+
 •	Out----				2
+
 •	VCC		----		3.3V
+
 •	GND				----GND
 
 
